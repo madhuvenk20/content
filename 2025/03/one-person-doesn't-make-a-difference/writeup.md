@@ -10,4 +10,4 @@ If you said yes, _why_ yes?
 
 ## Slide 3
 
-Then *what* do you mean by "one person stopping to consume animal products" wouldn't change anything?
+Then **what** do you mean by "one person stopping to consume animal products" wouldn't change anything?
