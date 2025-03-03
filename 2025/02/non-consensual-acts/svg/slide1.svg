@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.24"
-     inkscape:cx="737.09677"
-     inkscape:cy="42.33871"
+     inkscape:zoom="0.54"
+     inkscape:cx="777.77778"
+     inkscape:cy="412.03704"
      inkscape:window-width="1512"
      inkscape:window-height="916"
      inkscape:window-x="0"
@@ -87,7 +87,7 @@
      id="g71">
     <g
        id="g38"
-       transform="translate(0,-9.5977276)"
+       transform="translate(0,4.4463555)"
        inkscape:label="content">
       <text
          xml:space="preserve"
@@ -334,7 +334,7 @@
     </g>
     <g
        id="g69-9-8-3"
-       transform="matrix(1.0062843,0,0,1.0062843,63.029479,-11.907356)"
+       transform="matrix(1.0062843,0,0,1.0062843,63.029479,7.9363939)"
        inkscape:label="slider">
       <circle
          style="fill:#ed1a34;fill-opacity:1;stroke:none;stroke-width:0.0826175;stroke-opacity:1"
