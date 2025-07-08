@@ -56,5 +56,7 @@ Suggestion: picture of 3-4  most commonly farmed animals, including a buffalo be
 If you did not find the last statement ridiculous, is it because you CHOSE NOT to read it from the victims' perspective when the victims are animals?  
 
 ---
-Note: I know slide 6 only mentions food choices. But that is usually what the retort is from people. And this post is intended as a response to that retort.   
+
+**Note:** I know slide 6 only mentions food choices. But that is usually what the retort is from people. And this post is intended as a response to that retort.
+
 ---
