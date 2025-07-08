@@ -18,7 +18,7 @@ how is it _NOT_ wrong to raise a pig for slaughter?
 --Emily, _Handmaid's Tale_, S02E05
 
 When it is wrong to work a human to death,
-how is it _NOT_ wrong to work a human to death?
+how is it _NOT_ wrong to work a cow to death?
 
 ## Slide 3
 "For months we lived in that detention centre like animals"  
