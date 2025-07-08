@@ -28,7 +28,7 @@ how is it _NOT_ wrong to detain and enslave an animal?
 
 ## Slide 4
 "lab rat quote" 
-When it is wrong to use an animal as a test subject, 
+When it is wrong to use a human as a test subject, 
 how is it _NOT_ wrong to use an animal as a test subject?
 
 ## Slide 5 
